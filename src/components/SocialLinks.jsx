@@ -42,7 +42,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://drive.google.com/file/d/1_jZW42btiTqb9XZWz4re8Lzw2uL2rCyx/view?usp=share_link",
-      style: "rounded-br-md",
+      style: "rounded-tr-md",
       download: true,
     },
     {
