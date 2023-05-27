@@ -16,7 +16,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: bugfixer,
-      link:"https://bugfixermk.netlify.app"
+      link:"bugfixer-micro.netlify.app"
     },
     {
       id: 3,
